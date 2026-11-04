@@ -1,0 +1,1 @@
+# func-azu-actgroup-disable-resource-go
